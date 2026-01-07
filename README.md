@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou a Cláudia Kênia da Silva
-### Data Analyst Sênior | BI & Analytics | Python • R • Power BI • SQL
+### Data Analyst Sênior | BI & Analytics | Data Modeling • Power BI • Python • R
 
 Profissional de TI com mais de **25 anos de experiência**, atuando nos últimos anos com **Análise de Dados, Business Intelligence e Analytics**, combinando visão técnica, pensamento analítico e foco em geração de valor para o negócio.
+
+Atuo com foco em estruturação de dados, definição de KPIs e construção de dashboards orientados à tomada de decisão, aplicando boas práticas de Business Intelligence.
 
 Tenho experiência prática em **projetos de dados end-to-end**, incluindo coleta, tratamento, modelagem, análise e visualização de dados, apoiando a tomada de decisão em diferentes contextos de negócio.
 
